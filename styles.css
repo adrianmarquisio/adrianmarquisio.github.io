@@ -191,7 +191,7 @@ a:hover {
 header {
 	padding-top: 5rem;
 	padding-bottom: 3rem;
-	background: linear-gradient(to bottom right, rgba(27, 34, 37, 0), rgba(15, 19, 21, 0)), url('am_back.jpg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(27, 34, 37, 0), rgba(15, 19, 21, 0)), url('am-bn-back.jpg') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
